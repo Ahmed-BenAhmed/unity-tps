@@ -56,6 +56,9 @@ crashlytics-build.properties
 # Streaming assets (optional — remove if you want to track them)
 # /[Aa]ssets/[Ss]treamingAssets/
 
+# Third-party asset packages (large textures, not your work)
+/[Aa]ssets/[Ss]tarfield [Ss]kybox/
+
 # JetBrains Rider
 .idea/
 *.sln.DotSettings.user
